@@ -1,0 +1,1 @@
+leaningg about shell permision
