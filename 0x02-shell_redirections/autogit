@@ -1,0 +1,10 @@
+#!/bin/bash
+
+
+commit_message=$1
+
+git add .
+sleep 1
+git commit -m "$commit_message"
+sleep 1 
+git push 
